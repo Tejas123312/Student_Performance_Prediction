@@ -149,7 +149,7 @@ It aims to predict performance and enable early intervention so educators can pr
 
 1. Clone the repository:
     ```sh
-    git clone <repo-url>
+    git clone <https://github.com/Tejas123312/Student_Performance_Prediction/blob/main/README.md>
     cd Student_Performance_Prediction
     ```
 2. Install dependencies:
