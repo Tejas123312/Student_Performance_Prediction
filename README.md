@@ -56,7 +56,8 @@ It aims not only to predict performance but also to enable **early intervention*
 ---
 
 ## 👨‍💻 Contributors
-- [Your Name]  
-- Team Members (if any)  
+- Tejas Udgiri
+- Adwait Palsule  
+  
 
 ---
